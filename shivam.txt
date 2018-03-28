@@ -1,6 +1,5 @@
+This is for the second commit.
 My name is Shivam Rastogi.
 This is a git training session.
-Conducted by CyberGroup.
-By Vishal Ranjan
-Bye
+Conducted by CyberGroup by Vishal Ranjan
 
